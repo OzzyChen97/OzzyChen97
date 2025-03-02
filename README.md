@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OzzyChen97
+👋 Hi there, I’m @OzzyChen97
 - 👀 I’m interested in Mathmatics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Financial mathematics and Algorithms
