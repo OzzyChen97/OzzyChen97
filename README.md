@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OzzyChen97
 - 👀 I’m interested in Mathmatics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Financial mathematics and Algorithms
 - 📫 How to reach me comfortableapple@gmail.com
 
 <!---
